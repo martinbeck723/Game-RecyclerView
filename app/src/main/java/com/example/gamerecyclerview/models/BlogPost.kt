@@ -1,6 +1,6 @@
 package com.example.gamerecyclerview.models
 
-class GamePost(
+class BlogPost (
     var title: String,
     var body: String,
     //using URL to get image, so image is a String
